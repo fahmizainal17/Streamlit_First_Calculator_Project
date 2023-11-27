@@ -2,15 +2,6 @@
 from calculator_function import add,subtract,multiply,divide,expo
 import streamlit as st
 
-from PIL import Image
-
-image = Image.open('calculator.png')
-
-st.image(image, caption='Calculator')
-
-base="dark"
-primaryColor="purple"
-
 
 def calculator():
     st.title("My First Project on Streamlit: Calculator")
