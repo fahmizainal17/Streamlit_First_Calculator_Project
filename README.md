@@ -99,3 +99,56 @@ Asides from the project I also learnt on how to contribute properly
 - Provide docstrings and necessary comments for clarity.
 - Test application thoroughly before submitting a pull request.
 
+### On main branch
+https://app-first-project-stwdaihuu5q2vfcqkydmfw.streamlit.app/
+
+### On def_fahmi branch
+https://app-first-project-dbxzmh88ntztriggjvvgfy.streamlit.app/
+
+# Conclusion
+
+In conclusion, my first Streamlit project, "MyCalculator," has been a valuable learning experience in the realm of application development and deployment. This project not only allowed me to apply Git and GitHub knowledge in a real-world setting but also provided insights into essential aspects of software engineering practices.
+
+## Achievements
+
+- **Implementation of Streamlit:** Developed a web application using the Streamlit framework, showcasing basic calculator features.
+  
+- **Objective Fulfillment:** Successfully achieved the project's primary objectives, including applying Git and GitHub practices, learning deployment fundamentals, and implementing SOLID principles in design.
+
+- **User-Friendly Design:** Ensured the calculator application is user-friendly with clear titles and a visually appealing interface.
+
+- **Contributions and Code Reviews:** Gained experience in contributing to a project by forking the repository, creating new branches, and submitting pull requests. Participated in code reviews, adhering to guidelines that prioritize SOLID principles, concise functions, and thorough testing.
+
+## Application Structure
+
+The project adheres to a structured directory layout, with distinct files serving specific purposes:
+
+- **main_ui.py:** Contains the Streamlit user interface code, allowing customization of the layout and appearance.
+
+- **calculator.py:** Implements the core functionality of the calculator, providing functions for addition, subtraction, multiplication, division, and exponential operations.
+
+- **utils.py:** Houses utility functions or helper functions that support the application.
+
+- **requirements.txt:** Lists project dependencies, ensuring consistent environments for users.
+
+- **.gitignore:** Specifies files and directories to be ignored by Git, maintaining a clean repository.
+
+## How to Run
+
+For users interested in running the application, clear instructions have been provided in the documentation. By following the steps outlined, including installing dependencies and navigating to the appropriate directory, users can seamlessly interact with the calculator through their web browser.
+
+## Contributions and Future Goals
+
+In addition to achieving the outlined objectives, the project opened avenues for potential future enhancements and contributions. Noteworthy considerations include:
+
+- **Data Expansion:** Efforts could be directed towards collecting a larger dataset, enhancing the model's accuracy on more generalized data.
+
+- **Model Optimization:** Exploring model optimization techniques, such as implementing ensemble methods like voting and stacking, could further improve predictive performance.
+
+- **Deployment and Integration:** Considering the deployment of the optimized model for real-time predictions or integration into a web application would extend the project's practical utility.
+
+## Conclusion
+
+In conclusion, "MyCalculator" serves as a foundational project that integrates various software engineering principles and practices. From collaborative development and code reviews to deploying a functional application, this project encapsulates the iterative process of learning and implementing new concepts. Moving forward, the lessons learned and experiences gained will undoubtedly contribute to future endeavors in the realm of software development and machine learning.
+
+
