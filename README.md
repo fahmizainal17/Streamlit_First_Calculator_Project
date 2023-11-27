@@ -1,6 +1,3 @@
-Certainly! Here's your project documentation formatted in the style you provided:
-
-```markdown
 # My Streamlit First Project
 
 Libraries and Packages:
@@ -101,4 +98,3 @@ Asides from the project I also learnt on how to contribute properly
 - Provide docstrings and necessary comments for clarity.
 - Test application thoroughly before submitting a pull request.
 
-```
