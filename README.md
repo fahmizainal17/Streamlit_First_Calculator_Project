@@ -133,20 +133,6 @@ The project adheres to a structured directory layout, with distinct files servin
 
 - **.gitignore:** Specifies files and directories to be ignored by Git, maintaining a clean repository.
 
-## How to Run
-
-For users interested in running the application, clear instructions have been provided in the documentation. By following the steps outlined, including installing dependencies and navigating to the appropriate directory, users can seamlessly interact with the calculator through their web browser.
-
-## Contributions and Future Goals
-
-In addition to achieving the outlined objectives, the project opened avenues for potential future enhancements and contributions. Noteworthy considerations include:
-
-- **Data Expansion:** Efforts could be directed towards collecting a larger dataset, enhancing the model's accuracy on more generalized data.
-
-- **Model Optimization:** Exploring model optimization techniques, such as implementing ensemble methods like voting and stacking, could further improve predictive performance.
-
-- **Deployment and Integration:** Considering the deployment of the optimized model for real-time predictions or integration into a web application would extend the project's practical utility.
-
 ## Conclusion
 
 In conclusion, "MyCalculator" serves as a foundational project that integrates various software engineering principles and practices. From collaborative development and code reviews to deploying a functional application, this project encapsulates the iterative process of learning and implementing new concepts. Moving forward, the lessons learned and experiences gained will undoubtedly contribute to future endeavors in the realm of software development and machine learning.
